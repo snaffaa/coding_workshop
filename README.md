@@ -1,5 +1,5 @@
 # Public repository of the Amazon discharge and sediment Model
-the model includes two components, Amazon sediment production model and Amazon sediment transport model.
+The model includes two components, Amazon sediment production model and Amazon sediment transport model.
 Compiled_model.sh explains the full process of running the model. The output map of the Amazon sediment production model is used as an input of the Amazon sediment transport model. The running of the model depends on basic support functions for reading and converting input. The end output will be daily discharge and sediment transport maps for 30 years.  
 
 # Installation:
